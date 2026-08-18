@@ -153,7 +153,7 @@ npx live-server
 | Frontend Developer | *Phạm Phương Anh* | Xây dựng giao diện HTML/CSS/JS, tích hợp Bootstrap, gọi API bằng Fetch |
 | Backend Developer | *Đoàn Anh Tú* | Xây dựng REST API bằng FastAPI, thiết kế và triển khai CSDL PostgreSQL/PostGIS |
 | QA/Tester | *Trần Hoàng Trung* | Viết test case, kiểm thử chức năng, báo cáo và theo dõi lỗi |
-| Thư ký + Triển khai | *Nguyễn Thị Linh Anh* | Ghi biên bản họp, tổng hợp tài liệu, triển khai (deploy) hệ thống |
+| Thư ký + Triển khai | *Nguyễn Thị Linh Anh* | Ghi biên bản họp, theo dõi tiến độ của team, làm slide, triển khai (deploy) hệ thống |
 
 ---
 
