@@ -1,1 +1,11 @@
-Danh sách thư viện mà backend cần
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+google-auth
+requests
